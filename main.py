@@ -37,7 +37,7 @@ def apply_pca(X):
     X_pca = pd.DataFrame(X_pca, columns=components)
     return X_pca
 
-data = pd.read_csv("/kaggle/input/ames-csv/ames.csv")
+data = pd.read_csv("ames.csv")
 X = data.copy()
 y = X.SalePrice
 X_temp = data.copy()
