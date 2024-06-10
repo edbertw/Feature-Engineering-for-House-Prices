@@ -6,7 +6,7 @@ I made this project with the purpose of learning a few feature engineering metho
 2. Implementation of a powerful machine learning model ```XGBRegressor```
 3. Scaling of Important Numerical Features
 4. K-Means Clustering to add an integer-based ```Cluster Number``` column
-5. Principal Component Analysis to add new features
+5. Principal Component Analysis for Dimensionality Reduction
 6. Target Encoding on a few High Cardinality columns
 ## Results
 ```
